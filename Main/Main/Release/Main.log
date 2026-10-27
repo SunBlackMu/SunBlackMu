@@ -1,0 +1,104 @@
+﻿Построение начато 30.07.2017 17:55:31.
+     1>Проект "C:\MuOnline\MWEBGAME\Source\Main\Main\Main.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>InitializeBuildStatus:
+         Создание "Release\Main.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D MAIN_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Main.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D MAIN_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Main.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Util\CCRC32.Cpp Camera.cpp ChatExpanded.cpp Common.cpp Controller.cpp CustomBow.cpp CustomItem.cpp CustomJewel.cpp CustomMessage.cpp CustomWing.cpp NewMap.cpp Config.cpp SmokeEffect.cpp StaticEffect.cpp DynamicEffect.cpp Fog.cpp Glow.cpp Graphics.cpp HackCheck.cpp Interface.cpp Item.cpp Main.cpp Other.cpp PacketManager.cpp PetHook.cpp PrintPlayer.cpp Protect.cpp Protocol.cpp Reconnect.cpp Resolution.cpp TMemory.cpp ToolKit.cpp TrayMode.cpp User.cpp Util.cpp WingBright.cpp WingEffect.cpp WingInvisible.cpp
+         CCRC32.Cpp
+         Camera.cpp
+         ChatExpanded.cpp
+         Common.cpp
+         Controller.cpp
+         CustomBow.cpp
+         CustomItem.cpp
+         CustomJewel.cpp
+         CustomMessage.cpp
+         CustomWing.cpp
+         NewMap.cpp
+         Config.cpp
+         SmokeEffect.cpp
+         StaticEffect.cpp
+         DynamicEffect.cpp
+         Fog.cpp
+         Glow.cpp
+         Graphics.cpp
+         HackCheck.cpp
+         Interface.cpp
+         Компиляция...
+         Item.cpp
+         Main.cpp
+         Other.cpp
+         PacketManager.cpp
+         PetHook.cpp
+         PrintPlayer.cpp
+         Protect.cpp
+         Protocol.cpp
+         Reconnect.cpp
+         Resolution.cpp
+         TMemory.cpp
+         ToolKit.cpp
+         TrayMode.cpp
+         User.cpp
+         Util.cpp
+         WingBright.cpp
+         WingEffect.cpp
+         WingInvisible.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Release\Main.res" Main.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\MuOnline\MWEBGAME\Source\Main\Release\Main.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib cg.lib cgGL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Main.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\MuOnline\MWEBGAME\Source\Main\Release\Main.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\MuOnline\MWEBGAME\Source\Main\Release\Main.lib" /MACHINE:X86 /SAFESEH:NO /DLL Release\Main.res
+         Release\CCRC32.obj
+         Release\Camera.obj
+         Release\ChatExpanded.obj
+         Release\Common.obj
+         Release\Controller.obj
+         Release\CustomBow.obj
+         Release\CustomItem.obj
+         Release\CustomJewel.obj
+         Release\CustomMessage.obj
+         Release\CustomWing.obj
+         Release\NewMap.obj
+         Release\Config.obj
+         Release\SmokeEffect.obj
+         Release\StaticEffect.obj
+         Release\DynamicEffect.obj
+         Release\Fog.obj
+         Release\Glow.obj
+         Release\Graphics.obj
+         Release\HackCheck.obj
+         Release\Interface.obj
+         Release\Item.obj
+         Release\Main.obj
+         Release\Other.obj
+         Release\PacketManager.obj
+         Release\PetHook.obj
+         Release\PrintPlayer.obj
+         Release\Protect.obj
+         Release\Protocol.obj
+         Release\Reconnect.obj
+         Release\Resolution.obj
+         Release\stdafx.obj
+         Release\TMemory.obj
+         Release\ToolKit.obj
+         Release\TrayMode.obj
+         Release\User.obj
+         Release\Util.obj
+         Release\WingBright.obj
+         Release\WingEffect.obj
+         Release\WingInvisible.obj
+            Создается библиотека C:\MuOnline\MWEBGAME\Source\Main\Release\Main.lib и объект C:\MuOnline\MWEBGAME\Source\Main\Release\Main.exp
+         Создание кода
+         Создание кода завершено
+         Main.vcxproj -> C:\MuOnline\MWEBGAME\Source\Main\Release\Main.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\MuOnline\MWEBGAME\Source\Main\Release\Main.dll;#2" /manifest Release\Main.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\Main.unsuccessfulbuild" удаляется.
+         Обращение к "Release\Main.lastbuildstate".
+     1>Построение проекта "C:\MuOnline\MWEBGAME\Source\Main\Main\Main.vcxproj" завершено (целевые объекты rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:10.41

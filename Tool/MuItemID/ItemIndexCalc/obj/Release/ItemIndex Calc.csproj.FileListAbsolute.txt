@@ -1,0 +1,10 @@
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\bin\Release\ItemIndex Calc.exe.config
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\bin\Release\ItemIndex Calc.exe
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\bin\Release\ItemIndex Calc.pdb
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Release\ItemIndex Calc.csprojResolveAssemblyReference.cache
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Release\ItemIndexCalc.Properties.Resources.resources
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Release\ItemIndex Calc.csproj.GenerateResource.Cache
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Release\ItemIndex Calc.exe
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Release\ItemIndex Calc.pdb
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\bin\Release\Item ID.exe.config

@@ -1,0 +1,12 @@
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\bin\Debug\ItemIndex Calc.exe.config
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\bin\Debug\ItemIndex Calc.exe
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\bin\Debug\ItemIndex Calc.pdb
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\obj\Debug\ItemIndex Calc.csprojResolveAssemblyReference.cache
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\obj\Debug\ItemIndexCalc.Properties.Resources.resources
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\obj\Debug\ItemIndex Calc.csproj.GenerateResource.Cache
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\obj\Debug\ItemIndex Calc.exe
+C:\Users\LTPTE\Documents\visual studio 2015\Projects\WindowsFormsApplication1\ItemIndexCalc\obj\Debug\ItemIndex Calc.pdb
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\bin\Debug\ItemIndex Calc.exe.config
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Debug\ItemIndex Calc.exe
+C:\MuOnline\MuEMU\Source\Tool\MuItemID\ItemIndexCalc\obj\Debug\ItemIndex Calc.pdb
